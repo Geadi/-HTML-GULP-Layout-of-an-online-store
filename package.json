@@ -1,0 +1,25 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Верстка интернет-магазина",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geadi/-HTML-GULP-Layout-of-an-online-store.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "scss",
+    "css"
+  ],
+  "author": "Mazurash Henadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geadi/-HTML-GULP-Layout-of-an-online-store/issues"
+  },
+  "homepage": "https://github.com/Geadi/-HTML-GULP-Layout-of-an-online-store#readme"
+}
