@@ -61,5 +61,3 @@ pids
 *.pids
 *.seed
 *.pid.lock
-
-/
